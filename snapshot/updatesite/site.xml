@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
+   <description name="eMoflon-Ibex-Democles" url="https://emoflon.org/emoflon-ibex-updatesite/updatesite/">
+      
+   </description>
    <feature url="features/org.emoflon.ibex.tgg.ide.democles.feature_1.0.0.qualifier.jar" id="org.emoflon.ibex.tgg.ide.democles.feature" version="1.0.0.qualifier">
       <category name="eMoflon-Ibex-Democles"/>
    </feature>
