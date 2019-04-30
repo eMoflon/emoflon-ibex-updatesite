@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.emoflon.ibex.tgg.ide.democles.feature_1.0.0.201904051710.jar" id="org.emoflon.ibex.tgg.ide.democles.feature" version="1.0.0.201904051710">
+   <feature url="features/org.emoflon.ibex.tgg.ide.democles.feature_1.0.0.201904301516.jar" id="org.emoflon.ibex.tgg.ide.democles.feature" version="1.0.0.201904301516">
       <category name="eMoflon-Ibex-Democles"/>
    </feature>
    <category-def name="eMoflon-Ibex-Democles" label="eMoflon::Ibex (Democles)"/>
