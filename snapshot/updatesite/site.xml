@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.emoflon.ibex.tgg.ide.hipe.feature_1.0.0.202002051621.jar" id="org.emoflon.ibex.tgg.ide.hipe.feature" version="1.0.0.202002051621">
+   <feature url="features/org.emoflon.ibex.tgg.ide.hipe.feature_1.0.0.202003161959.jar" id="org.emoflon.ibex.tgg.ide.hipe.feature" version="1.0.0.202003161959">
       <category name="eMoflon-Ibex"/>
    </feature>
-   <feature url="features/org.emoflon.ibex.tgg.ide.democles.feature_1.0.0.202002051621.jar" id="org.emoflon.ibex.tgg.ide.democles.feature" version="1.0.0.202002051621">
+   <feature url="features/org.emoflon.ibex.tgg.ide.democles.feature_1.0.0.202003161959.jar" id="org.emoflon.ibex.tgg.ide.democles.feature" version="1.0.0.202003161959">
       <category name="eMoflon-Ibex"/>
    </feature>
-   <feature url="features/org.moflon.core.feature_1.7.0.202002051621.jar" id="org.moflon.core.feature" version="1.7.0.202002051621">
+   <feature url="features/org.moflon.core.feature_1.7.0.202003161959.jar" id="org.moflon.core.feature" version="1.7.0.202003161959">
       <category name="eMoflon-Core"/>
    </feature>
-   <feature url="features/org.emoflon.ibex.ide.feature_1.0.0.202002051621.jar" id="org.emoflon.ibex.ide.feature" version="1.0.0.202002051621">
+   <feature url="features/org.emoflon.ibex.tgg.editor.feature_1.0.0.202003161959.jar" id="org.emoflon.ibex.tgg.editor.feature" version="1.0.0.202003161959">
+      <category name="eMoflon-Ibex"/>
+   </feature>
+   <feature url="features/org.emoflon.ibex.ide.feature_1.0.0.202003161959.jar" id="org.emoflon.ibex.ide.feature" version="1.0.0.202003161959">
       <category name="eMoflon-Ibex"/>
    </feature>
    <category-def name="eMoflon-Ibex" label="eMoflon::Ibex"/>
