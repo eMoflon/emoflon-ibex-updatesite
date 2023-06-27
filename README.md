@@ -2,7 +2,7 @@
 
 ## How to install
 1. Install [GraphViz](http://www.graphviz.org/download/).
-1. Get the latest version of the [Eclipse Modeling Tools](https://www.eclipse.org/downloads/packages/). You need at least Eclipse 2022-09.
+1. Get the latest version of the [Eclipse Modeling Tools](https://www.eclipse.org/downloads/packages/). You need at least Eclipse 2023-06.
 1. Install eMoflon::IBeX from this update site:
 	https://emoflon.org/emoflon-ibex-updatesite/snapshot/updatesite/
     - Select the eMoflon::IBeX (Democles) feature to install eMoflon::IBeX along with the Democles pattern matching tool.
